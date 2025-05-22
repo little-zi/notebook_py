@@ -31,5 +31,9 @@ b. `conda --help` 查看帮助文件。（大多数命令行工具都可以使�
 - `git --version`
 - `git --help`
 - 需要先到`github`建立项目，然后使用`git clone`命令将项目克隆到本地
+- `git init` 初始化本地仓库
+
+
+
 
 
